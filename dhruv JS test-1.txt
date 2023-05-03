@@ -1,0 +1,42 @@
+1) What is a function?
+- Function is a state of statement which calculate values.
+
+2) What is a statement?
+-Statement is a syntex constructs and commands the action.
+
+3) What are loops? Give an example.
+- Loops are perfomed repeted task on condition based.
+- There are two loops in JavaScript 1)While 2) For
+-ex.   for (let i = 0; i < 10; i++) 
+
+4) What is variable?
+- Variables are containers for storing data.
+
+5) How to declare and intialise a variable in a single step?
+- If there is three variable have same value then we intialise value in single step.
+- ex. a=20 b=20 c=20 
+        a=b=c=20
+
+6) How many data types does JavaScript have? Name them.
+- There are two data types - 1) primitive data type 2) Spacial data type
+- Primitive data type includes-
+String, number, BigInt, bollean, null, undifined, symbole and objects.
+
+7) Give 2 example of unary oprators.
+-
+
+
+8) Write a function Square( ) thet takes a number parameter and returns it square.
+-
+
+
+
+
+
+
+9) What does getElementByclassName( ) returns?
+- getElementByclassName( ) returns an array which have all the givan className( ).
+
+10) When would you use an objectt type for a variable?
+- Object type is used for know which type is used in variable.
+Ex. " String", number, etc..
